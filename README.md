@@ -4,6 +4,6 @@ NPM     : 2206082650
 
 Kelas   : PBP F
 
-Hobi    : Mencintai yang tak mencintai balik
+Hobi    : Jadi temen curhatnya, terus gebettt
 
 Jurusan : Sistem Informasi - FASILKOM UI
